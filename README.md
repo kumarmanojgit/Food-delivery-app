@@ -11,4 +11,7 @@ explaination why it are used <br>
 4.stripe -->Payments is a powerful payment processor for online sales. It can accept dozens of payment methods and more than 135 currencies.<br>
 5.cors-->Authentication for third parties.<br>
 6.dotenv-->1.improve security and create file env 2.files are really just for storing typically secret data such as api keys and passwords.<br>
-7.uuid-->
+7.bcrypt-->Bcrypt is a valuable tool to use to hash and store passwords. Its major benefits include: Slow runtime. Bcrypt is a slow-functioning algorithm that takes time to create password hashes and requires time to decrypt them.<br>
+8.uuid-->(universal unique identifier)UUIDs are globally unique(it provide uniqueness to database).<br>
+9.jsonwebtoken-->JWTs are a good way of securely transmitting information between parties.<br>
+10.body-parser-->
